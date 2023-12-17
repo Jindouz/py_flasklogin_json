@@ -14,6 +14,6 @@ pip install -r requirements.txt
 
 ## Start the app:
 ```
-Make sure you're in the /back/ folder and in VE (env) with all requirements installed and run app.py  
-then go into the address Flask provided. (default http://127.0.0.1:5000/)
+Make sure you're in the /back/ folder and in VE (env) with all requirements installed  
+Run app.py then go into the address Flask provided. (default http://127.0.0.1:5000/)  
 ```
